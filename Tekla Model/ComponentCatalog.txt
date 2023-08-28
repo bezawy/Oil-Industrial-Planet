@@ -1,0 +1,74 @@
+-10000	HATB	All
+THUMBNAIL	HATB_TN.BMP
+-10000	HATA	All
+THUMBNAIL	HATA_TN.BMP
+-100	Beam_Formwork	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_Beam_Form.bmp
+-100	Column_Formwork	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_Column_Form.bmp
+-10	General_Beam_Form	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Beam.bmp
+-10	General_Clamp	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Clamp.bmp
+-10	General_Clip	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Clip.bmp
+-10	General_Tie	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Tie.bmp
+-10	General_Tie_and_Clips	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Tie_Clip.bmp
+-10	General_Wall_Form	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_General_Wall_Panel.bmp
+-10	Sub_Component_Ties	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_Sub.bmp
+-10	Sub_Component_Ties_2	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_Sub.bmp
+-100	Wall_Formwork	All
+THUMBNAIL	C:\TeklaStructuresModels\Zina - Building 8\attributes\Tekla_Wall_Panel.bmp
+-100000	Floor Tool	All|Plugins
+THUMBNAIL	et_element_FloorTool
+-200000	Gusset+T	All|Plugins
+THUMBNAIL	et_element_Gusset+T
+-100000	Hollowcore Lifting Loops	All|Plugins
+THUMBNAIL	et_element_HollowCoreLiftingLoops
+-100000	Hollowcore Opening Tool	All|Plugins
+THUMBNAIL	et_element_HollowCoreOpeningTool
+-100000	Layout Line	All|Plugins
+THUMBNAIL	et_element_LayoutLinePlugin
+-100000	Layout Point	All|Plugins
+THUMBNAIL	et_element_LayoutPointPlugin
+-100000	Multi Wire Size Mesh	All|Plugins
+THUMBNAIL	et_element_MultiWireSizeMesh
+-100000	Opening Frame	All|Plugins
+THUMBNAIL	et_element_OpeningFrame
+-100000	Radial Grid	All|Plugins
+THUMBNAIL	et_element_RadialGrid
+-200000	Sandwich Wall Horizontal Seam	All|Plugins
+THUMBNAIL	et_element_SandwichWallHorizontalSeam
+-200000	Sandwich Wall Vertical Seam	All|Plugins
+THUMBNAIL	et_element_SandwichWallVerticalSeam
+-100000	Sandwich Wall Window	All|Plugins
+THUMBNAIL	et_element_SandwichWallWindow
+-100000	Sandwich and Double Wall	All|Plugins
+THUMBNAIL	et_element_SandwichAndDoubleWall
+-100000	Seam Applicator	All|Plugins
+THUMBNAIL	et_element_SeamApplicator
+-100000	Ship Ladder	All|Plugins
+THUMBNAIL	et_element_ShipLadder
+-100000	Slab Reinforcement Tool	All|Plugins
+THUMBNAIL	et_element_SlabReinforcementTool
+-100000	Sloping Slab Drainage	All|Plugins
+THUMBNAIL	et_element_SlopingSlabDrainage
+-100000	Strand Pattern	All|Plugins
+THUMBNAIL	et_element_StrandPattern
+-200000	Tube-Chamfer	All|Plugins
+THUMBNAIL	et_element_Tube-Chamfer
+-200000	Tube-Crossing Saddle	All|Plugins
+THUMBNAIL	et_element_Tube-CrossingSaddle
+-200000	Tube-MitreSaddle+Hole	All|Plugins
+THUMBNAIL	et_element_Tube-MitreSaddle+Hole
+-200000	Tube-Saddle+Hole	All|Plugins
+THUMBNAIL	et_element_Tube-Saddle+Hole
+-200000	Tube-Slotted Hole	All|Plugins
+THUMBNAIL	et_element_Tube-SlottedHole
+-100000	Wall Rails	All|Plugins
+THUMBNAIL	et_element_WallRails

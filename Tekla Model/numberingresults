@@ -1,0 +1,26 @@
+
+*** Numbering (Ahmed Mostafa): Sat Nov 16 12:30:02 2019
+  Modified numbering
+  Compare modified to old parts
+  Compare new to old parts
+  Use old numbers
+  Tolerance: 1.000000
+  SteelTolerance: 1.000000
+  ConcreteTolerance: 2.000000
+  RebarTolerance: 2.000000
+Assembly guid: ID5DCD2AC9-0000-126E-3135-373337323733  series:STR/1  STR/0 -> STR/1
+Assembly guid: ID5DCD2AC9-0000-2D57-3135-373337323834  series:STR/1  STR/0 -> STR/2
+Assembly guid: ID5DCD2AC9-0000-3F66-3135-373337323932  series:STR/1  STR/0 -> STR/3
+Assembly guid: ID5DCD2AC9-0000-45E0-3135-373337323933  series:STR/1  STR/0 -> STR/4
+Assembly guid: ID5DCD2AC9-0000-48C9-3135-373337323938  series:STR/1  STR/0 -> STR/5
+Assembly guid: ID5DCD2AC9-0000-4C6B-3135-373337323938  series:STR/1  STR/0 -> STR/6
+Assembly guid: ID5DCD2AC9-0000-5BEE-3135-373337333035  series:STR/1  STR/0 -> STR/7
+Assembly guid: ID5DCD2AC9-0000-553B-3135-373337333034  series:STR/1  STR/0 -> STR/8
+Assembly guid: ID5DCD2AC9-0000-312E-3135-373337323837  series:STR/1  STR/0 -> STR/9
+Assembly guid: ID5DCD2AC9-0000-3132-3135-373337323837  series:STR/1  STR/0 -> STR/10
+Assembly guid: ID5DCD2AC9-0000-2558-3135-373337323831  series:STR/1  STR/0 -> STR/11
+Assembly guid: ID5DCD2AC9-0000-2DE8-3135-373337323835  series:STR/1  STR/0 -> STR/11
+Assembly guid: ID5DCD2AC9-0000-331D-3135-373337323837  series:STR/1  STR/0 -> STR/11
+Assembly guid: ID5DCD2AC9-0000-2C25-3135-373337323834  series:STR/1  STR/0 -> STR/12
+Assembly guid: ID5DCD2AC9-0000-2DEC-3135-373337323835  series:STR/1  STR/0 -> STR/12
+Assembly guid: ID5DCD2AC9-0000-3321-3135-373337323837  series:STR/1  STR/0 -> STR/12

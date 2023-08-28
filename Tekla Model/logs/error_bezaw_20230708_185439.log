@@ -1,0 +1,5 @@
+ERROR:  08.07.2023 18:54:40 Failed to open database file plotdev.bin
+ERROR:  08.07.2023 18:54:40 Sketch order number not found for sketch item 5DA70FCE-0000-01E7-3135-373132323936, reordering
+ERROR:  08.07.2023 18:54:40 Sketch order number not found for sketch item 5DA70FCE-0000-02B1-3135-373132323936, reordering
+ERROR:  08.07.2023 18:54:40 Sketch order number not found for sketch item 5DA70FCE-0000-02FF-3135-373132323936, reordering
+ERROR:  08.07.2023 18:54:40 Sketch order number not found for sketch item 5DA70FCE-0000-0403-3135-373132323936, reordering
